@@ -21,3 +21,6 @@ Script to Generate Polarimetric Tensor Imaging together with an Embedded DEMO fo
 
 > [!IMPORTANT]
 > Install add-on extensions: DTI Process, Slicer DMRI, UKFTractography
+
+> [!WARNING]
+> Check 3D Slicer Coordinate System of reference.
