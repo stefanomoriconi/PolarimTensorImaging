@@ -1,6 +1,9 @@
 # PolarimetricTensorImaging
 Script to Generate Polarimetric Tensor Imaging together with an Embedded DEMO for Visualisation and Interaction in 3D Slicer.
 
+![PTI_DEMO_example](https://github.com/stefanomoriconi/PolarimetricTensorImaging/assets/35454056/b20c8a47-f0e8-44d0-b656-4ba24a12eefc)
+
+
 ## Requirements
 
 ### Processing
